@@ -1,0 +1,59 @@
+.header {
+background-image: url("/Users/arutyun/Desktop/Учеба HTML CSS/Публикация в интернет/Изображение1.jpeg");
+background-size: cover; 
+padding: 30px;
+text-align: justify; 
+}
+
+.main_title {
+font-family: impact, fantasy;
+font-style: bold;
+text-align: justify;
+font-size: 45px;
+text-shadow: 2px 2px #778899; 
+color: #191970;
+}
+
+#best {
+font-family: brush script mt, brush script std, cursive;
+font-size: 30px;
+color: #191970;
+}
+
+.second_title {
+font-family: impact, fantasy;
+color: #191970;
+background-color: #8FBC8B;
+}
+
+.chapter {
+background-color: white;
+font-family: brush script mt, brush script std, cursive;
+font-size: 30px;
+color: #191970;
+}
+.image {
+width: 1000px;
+Height: 800 px;
+}
+.list {
+Font-family: impact, fantasy;
+color: red;
+}
+.list2 {
+Font-size: 25px;
+Color: #191970;
+}
+.paragraph {
+Background-color: #E0FFFF;
+}
+.definition {
+Font-family: impact, fantasy;
+color: red;
+}
+.meaning {
+Font-size: 25px;
+}
+
+
+
